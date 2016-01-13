@@ -1,0 +1,26 @@
+﻿.wizard-panel-heading{
+    background-color: aquamarine;
+}
+.wizard-panel-body{
+    background-color: rosybrown;
+}
+
+.wizard-panel-footer-navbar{
+    position:relative;
+    right:10px;
+}
+/*.wizard-pagination>li>a:focus{
+    background-color:gold;
+}*/
+
+a>svg>.flow-arrow{
+    fill:blueviolet;
+    
+}
+a.active>svg>.flow-arrow{
+    fill:brown;
+}
+
+.flow-arrow:focus{
+    fill:orangered;
+}
